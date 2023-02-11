@@ -1,0 +1,15 @@
+C:\Users\пр\Desktop\gitexample\git003\bin\Debug\net7.0\git003.exe
+C:\Users\пр\Desktop\gitexample\git003\bin\Debug\net7.0\git003.deps.json
+C:\Users\пр\Desktop\gitexample\git003\bin\Debug\net7.0\git003.runtimeconfig.json
+C:\Users\пр\Desktop\gitexample\git003\bin\Debug\net7.0\git003.dll
+C:\Users\пр\Desktop\gitexample\git003\bin\Debug\net7.0\git003.pdb
+C:\Users\пр\Desktop\gitexample\git003\obj\Debug\net7.0\git003.csproj.AssemblyReference.cache
+C:\Users\пр\Desktop\gitexample\git003\obj\Debug\net7.0\git003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пр\Desktop\gitexample\git003\obj\Debug\net7.0\git003.AssemblyInfoInputs.cache
+C:\Users\пр\Desktop\gitexample\git003\obj\Debug\net7.0\git003.AssemblyInfo.cs
+C:\Users\пр\Desktop\gitexample\git003\obj\Debug\net7.0\git003.csproj.CoreCompileInputs.cache
+C:\Users\пр\Desktop\gitexample\git003\obj\Debug\net7.0\git003.dll
+C:\Users\пр\Desktop\gitexample\git003\obj\Debug\net7.0\refint\git003.dll
+C:\Users\пр\Desktop\gitexample\git003\obj\Debug\net7.0\git003.pdb
+C:\Users\пр\Desktop\gitexample\git003\obj\Debug\net7.0\git003.genruntimeconfig.cache
+C:\Users\пр\Desktop\gitexample\git003\obj\Debug\net7.0\ref\git003.dll
