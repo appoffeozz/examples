@@ -12,7 +12,7 @@
 
 Console.Write("Введите число от 1 до 7");
 int a = int.Parse(Console.ReadLine());
-if (a < 0)Console.WriteLine("Введите число от 1 до 7");
+if (a <= 0)Console.WriteLine("Введите число от 1 до 7");
 if (a > 7)Console.WriteLine("Введите число от 1 до 7");
 if (a == 1)Console.WriteLine("Понедельник");
 if (a == 2)Console.WriteLine("Вторник");
