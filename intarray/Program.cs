@@ -55,3 +55,4 @@ if (num >= 1 && num <= 5)
     Console.Write(" Да, выходной"); 
 } 
     else Console.Write(" Нет существует такого дня недели");
+ //
